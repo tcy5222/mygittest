@@ -1,2 +1,3 @@
 # mygittest
-aaabbbcccc
+a
+aabbbcccc
